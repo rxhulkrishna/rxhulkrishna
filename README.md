@@ -1,6 +1,6 @@
 - 👋 Hi, I’m rahulkrishna
 - 👀 I’m interested in learning more about raw css
-- 🌱 I’m currently learning Python & Django
+- 🌱 I’m currently learning Javascript & React
 
 <!---
 rxhulkrishna/rxhulkrishna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
