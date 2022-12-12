@@ -1,5 +1,5 @@
 - 👋 Hi, I’m rahulkrishna
-- 👀 I’m interested in learning more about raw css
+- 👀 I’m interested in learning more about pure css
 - 🌱 I’m currently learning Javascript & React
 
 <!---
