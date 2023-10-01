@@ -1,6 +1,6 @@
 - 👋 Hi, I’m rahulkrishna
 - 👀 I’m interested in learning more about pure css
-- 🌱 I’m currently learning Javascript & React
+- 🌱 I’m currently learning MERN Stack
 
 <!---
 rxhulkrishna/rxhulkrishna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
